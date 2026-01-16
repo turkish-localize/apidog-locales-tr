@@ -10,6 +10,7 @@ This repository contains localized resource files for Apidog. Each language dire
 | **Japanese**                | ja-JP    | 100% ✅         | 100% ✅         | 100% ✅         | Complete       |
 | **Portuguese (Brazil)**     | pt-BR    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
 | **Spanish (Spain)**         | es-ES    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
+| **Turkish (Turkey)**         | tr-TR    | 4% 🔄         | 1% 🔄         | 0% 🔄          | Under Review   |
 
 > **Note**: Your translation work will be visible in the product once the overall progress reaches 80%.
 
@@ -22,11 +23,13 @@ apidog-locales/
 │   └── es-ES.json      # Spanish translations
 │   └── ja-JP.json      # Japanese translations
 │   └── pt-BR.json      # Portuguese translations
+│   └── tr-TR.json      # Turkish translations
 ├── app-server/          # Server-side message translations
 │   ├── en-US.json      # English (base language)
 │   └── es-ES.json      # Spanish translations
 │   └── ja-JP.json      # Japanese translations
 │   └── pt-BR.json      # Portuguese translations
+│   └── tr-TR.json      # Turkish translations
 └── Glossary.md # Translation terminology glossary
 ```
 
