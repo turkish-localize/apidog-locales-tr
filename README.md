@@ -10,7 +10,7 @@ This repository contains localized resource files for Apidog. Each language dire
 | **Japanese**                | ja-JP    | 100% ✅         | 100% ✅         | 100% ✅         | Complete       |
 | **Portuguese (Brazil)**     | pt-BR    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
 | **Spanish (Spain)**         | es-ES    | 100% ✅         | 100% ✅         | 0% 🔄          | Under Review   |
-| **Turkish (Turkey)**         | tr-TR   | 4% 🔄           | 100% ✅           | 100% ✅          | Under Review   |
+| **Turkish (Turkey)**         | tr-TR   | 4% 🔄           | 100% ✅           | 0% 🔄          | Under Review   |
 > **Note**: Your translation work will be visible in the product once the overall progress reaches 80%.
 
 ## 📁 Repository Structure
