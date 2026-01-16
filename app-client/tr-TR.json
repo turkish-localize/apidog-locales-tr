@@ -47,7 +47,7 @@
     "account-settings.basic.email-unbind.tip": "Can not login with email after unlink. Are you Sure?",
     "account-settings.basic.bind.auth-existed": "This {provider} account is already connected, please try another one.",
     "account-settings.basic.bind.user-notfound": "This userinfo is not found. Please try again.",
-    "account-settings.basic.delete-account": "Delete Account",
+    "account-settings.basic.delete-account": "Hesabı Sil",
     "account-settings.basic.delete-account.danger-zone": "Danger Zone",
     "account-settings.basic.delete-account.delete-tip": "Account deletion will permanently remove all personal information.",
     "account-settings.basic.delete-account.quit.button-txt": "Go to quit",
